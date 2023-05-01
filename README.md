@@ -14,6 +14,7 @@
 - Mengupload Website Ke Internet Github Pages & Web Hosting
 - Menyimpan Pesan dari Contact Form ke dalam GOOGLE SHEETS
 - Membuat Animasi pada Website (Menggunakan AOS & GSAP)
+- Membuat Efek Animasi pada Website Menggunakan Tilt JS
 
 ## Tools & Requirement :
 
@@ -26,6 +27,7 @@
 * **unsplash**
 * **AOS**
 * **GSAP**
+* **Tilt JS**
 
 <br clear="both">
 <br clear="both">
