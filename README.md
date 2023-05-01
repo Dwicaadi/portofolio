@@ -14,12 +14,17 @@
 - Mengupload Website Ke Internet Github Pages & Web Hosting
 - Menyimpan Pesan dari Contact Form ke dalam GOOGLE SHEETS
 
-## Requirement :
+## Tools & Requirement :
 
 * **code editor**
 * **web browser**
 * **google sheets**
-
+* ***bootstrap 5*
+* ***bootstrap Icon*
+* ***squoosh*
+* ***unsplash*
+* ***AOS*
+* ***GSAP*
 
 <br clear="both">
 <br clear="both">
