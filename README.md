@@ -1,6 +1,6 @@
 # BOOTSTRAP-5
 
-**BOOTSTRAP-5** -  Ini merupakan repositori ngobar (ngoding bareng) dari implementasi playlist belajar BOOTSTRAP-5 yang ada di youtube channel [Web Progrramming Unpas](https://www.youtube.com/watch?v=LkR-9Z1sle8&list=PLFIM0718LjIV46XyERoDIlBWl2tMmmm8X) mulai dari ngaobar 27-29. Dibuat sebagai backup dan dokumentasi saya pribadi untuk pembelajaran bootstrap-5
+**BOOTSTRAP-5** -  Ini merupakan repositori ngobar (ngoding bareng) dari implementasi playlist belajar BOOTSTRAP-5 yang ada di youtube channel [Web Progrramming Unpas](https://www.youtube.com/watch?v=LkR-9Z1sle8&list=PLFIM0718LjIV46XyERoDIlBWl2tMmmm8X) mulai dari ngaobar 27-31. Dibuat sebagai backup dan dokumentasi saya pribadi untuk pembelajaran bootstrap-5
 
 ![Author](https://img.shields.io/badge/made%20by-Ardywsptr-blue)
 ![GitHub followers](https://img.shields.io/github/followers/Ardywsptr?style=social)
@@ -13,18 +13,19 @@
 - Membuat Website Portofolio dengan BOOTSTRAP-5
 - Mengupload Website Ke Internet Github Pages & Web Hosting
 - Menyimpan Pesan dari Contact Form ke dalam GOOGLE SHEETS
+- Membuat Animasi pada Website (Menggunakan AOS & GSAP)
 
 ## Tools & Requirement :
 
 * **code editor**
 * **web browser**
 * **google sheets**
-* ***bootstrap 5*
-* ***bootstrap Icon*
-* ***squoosh*
-* ***unsplash*
-* ***AOS*
-* ***GSAP*
+* **bootstrap 5**
+* **bootstrap Icon**
+* **squoosh**
+* **unsplash**
+* **AOS**
+* **GSAP**
 
 <br clear="both">
 <br clear="both">
