@@ -144,6 +144,56 @@
                 </div>
             </div>
         </div>
+
+        <!-- my keyboard -->
+        <section id="my-keyboars">
+            <div class="container">
+                <div class="row text-center mb-3">
+                    <div class="col">
+                        <h2>My Keyboard</h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="keyboard-box">
+                            <h4 class="keyboard-name">Keychron K2</h4>
+                            <img src="img/keyboards/keyboard1.png" alt="keyboard1" class="img-fluid keyboard-img">
+                            <a href="#" class="btn btn-light keyboard-detail-button">Show Details</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="keyboard-box">
+                            <h4 class="keyboard-name">Keychron K3</h4>
+                            <img src="img/keyboards/keyboard2.png" alt="keyboard2" class="img-fluid keyboard-img">
+                            <a href="#" class="btn btn-light keyboard-detail-button">Show Details</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="keyboard-box">
+                            <h4 class="keyboard-name">Keychron K2</h4>
+                            <img src="img/keyboards/keyboard1.png" alt="keyboard1" class="img-fluid keyboard-img">
+                            <a href="#" class="btn btn-light keyboard-detail-button">Show Details</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="keyboard-box">
+                            <h4 class="keyboard-name">Keychron K3</h4>
+                            <img src="img/keyboards/keyboard2.png" alt="keyboard2" class="img-fluid keyboard-img">
+                            <a href="#" class="btn btn-light keyboard-detail-button">Show Details</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="keyboard-box">
+                            <h4 class="keyboard-name">Keychron K2</h4>
+                            <img src="img/keyboards/keyboard1.png" alt="keyboard1" class="img-fluid keyboard-img">
+                            <a href="#" class="btn btn-light keyboard-detail-button">Show Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end my keyboard -->
+
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#ffffff" fill-opacity="1"
                 d="M0,192L40,176C80,160,160,128,240,133.3C320,139,400,181,480,208C560,235,640,245,720,224C800,203,880,149,960,154.7C1040,160,1120,224,1200,250.7C1280,277,1360,267,1400,261.3L1440,256L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z">
@@ -351,6 +401,17 @@
                 .catch(error => console.error('Error!', error.message))
         })
     </script>
+
+    <!-- script til js -->
+    <script type="text/javascript" src="js/vanilla-tilt.min.js"></script>
+    <script type="text/javascript">
+        VanillaTilt.init(document.querySelectorAll(".keyboard-box"), {
+            max: 25,
+            speed: 1000,
+            glare: true
+        });
+    </script>
+    <!-- script til js -->
 </body>
 
 </html>
